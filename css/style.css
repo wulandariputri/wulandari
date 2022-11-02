@@ -1,0 +1,143 @@
+
+  body{
+  margin:0;
+  font-family: 'Arvo', serif;
+  text-align: center;
+  }
+
+  h1{
+  color: #789395;
+  width:10%;
+  text-align: center;
+  font-family: 'Comforter', cursive;
+  margin: 50px auto 0 auto;
+  text-align: center;
+  font-size: 25px;
+  line-height: 0.9;
+  }
+
+  h2{
+  text-align: center;
+  color: #789395;
+  }
+
+ h3{
+   color: #789395;
+   font-family: 'Arvo', serif;
+   text-align: center;
+
+
+  }
+
+  p{color: #789395;
+  font-family: 'Ubuntu Mono', monospace;
+
+  }
+  .cloud{position: relative;
+    left:40;}
+
+  div{background-color: #E5E3C9;
+  }
+
+  .top{
+  background-color:  #E5E3C9;
+  padding-top: 20px 0 20px 0;
+  text-align: center;
+
+  }
+  .middle{
+  background-color: #E5E3C9;
+  padding-top: 20px;
+
+  }
+
+  .bottom{
+  background-color: #B4CFB0;
+  text-align: center;
+  padding: 50px;
+  }
+
+  .skill-row{
+    width: 50% ;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+  }
+
+  .cloud{position: relative;
+    width: 30%;
+    height: 30%;
+    left:50px;
+  }
+  .cloud1{position: relative;
+    width: 40%;
+    height: 40%;
+    top: 200px;
+    left:80px;
+  }
+ .cp{position:relative;
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  height: 30%;
+
+ }
+ .pensil{
+   width: 25%:auto;
+ }
+ .kaktus{
+   width: 20%;
+   float: right;
+   margin-left: 30px;
+ }
+ .technology{
+   width: 30%;
+   float: left;
+   margin-right: 30px;
+  }
+  .footer-link{
+    text-align: center;
+    color: #789395;
+  }
+
+  .Mountain{
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+
+  hr{
+     border-style: none;
+     border-top-style: dotted;
+     border-color: #B4CFB0;
+     border-width: 5px;
+     width: 5%;}
+
+     .btn {
+     border: 0;
+     line-height: 2.5;
+     padding: 5px 7px;
+     font-size: 1rem;
+     text-align: center;
+     color: #E5E3C9;
+     text-shadow: 1px 1px 1px #000;
+     border-radius: 10px;
+     background-color: #395144;
+     background-image: linear-gradient(to top left,
+                                       rgba(0, 0, 0, .2),
+                                       rgba(0, 0, 0, .2) 30%,
+                                       rgba(0, 0, 0, 0));
+     box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                 inset -2px -2px 3px rgba(0, 0, 0, .6);
+ }
+
+ .styled:hover {
+     background-color: #4E6C50;
+ }
+
+ .styled:active {
+     box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+                 inset 2px 2px 3px rgba(0, 0, 0, .6);
+ }
